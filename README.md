@@ -18,3 +18,6 @@ Technologies Used:-
 
 This project was a fantastic exercise in data integration, transformation, and creating a user-friendly experience. I'm passionate about turning complex data into actionable insights!
 hashtag#PowerBI hashtag#DataVisualization hashtag#WeatherDashboard hashtag#AirQuality hashtag#BusinessIntelligence hashtag#DataAnalytics hashtag#DataScience hashtag#InteractiveDashboard hashtag#Analytics hashtag#DataDriven
+
+Snapshot /  Demos
+https://github.com/Urvidhi/CityScape-Weather-Dynamics/blob/main/Screenshot%202025-07-23%20174312.png
